@@ -14,4 +14,4 @@ body {
 }
 ```
 
-[链接](htttp://www.4399.com)
+[链接](http://www.4399.com)
