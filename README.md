@@ -5,7 +5,7 @@
 var a = 1;
 console.log(a);
 ```
-这是图片![网易云软件](cloud.jpg)
+这是图片![网易云软件](images/cloud.jpg)
 
 我的CSS代码块
 ```css
