@@ -1,20 +1,23 @@
-# 我的标题
+# 一级标题
+## 二级标题
 
-我的JS代码块
+[点击预览](www.4399.com)
+
+查看图片
+![image](https://user-images.githubusercontent.com/58580685/122919187-87aed500-d392-11eb-9185-1ccfed866d56.png)
+
+`rm -r a && mkdir b`
+
 ```javascript
-var a = 1;
-console.log(a);
+console.log("666");
+let red = #ff0000;
 ```
-这是图片![网易云软件](images/cloud.jpg)
 
-我的CSS代码块
 ```css
 body {
-    background: red;
+    color: red;
 }
 ```
-
-[链接](http://www.4399.com)
 
 有序列表
 1. 唱
@@ -23,9 +26,10 @@ body {
 4. 篮球
 
 无序列表
-* 迪丽热巴
-* 古力娜扎
-* 马尔扎哈
+* Taylor Swift
+* lover
+* exile
+* you belong with me
 
-下面是引用
-> 在饥人谷学习到的Markdown入门语法我很喜欢
+
+> Markdown 基础用法
