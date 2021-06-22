@@ -1,7 +1,7 @@
 # 一级标题
 ## 二级标题
 
-[点击预览](www.4399.com)
+[点击预览](https://www.4399.com)
 
 查看图片
 ![image](https://user-images.githubusercontent.com/58580685/122919187-87aed500-d392-11eb-9185-1ccfed866d56.png)
